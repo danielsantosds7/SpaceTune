@@ -1,6 +1,6 @@
 # SpaceTune
 
-- Projeto desenvolvido no primeiro período do curso de Jogos Digitais pela PUC Minas
+- Projeto desenvolvido no primeiro período do curso de Jogos Digitais pela PUC Minas Virtual
 
 <h3>Tela do game</h3>
 
