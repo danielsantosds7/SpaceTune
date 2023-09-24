@@ -18,3 +18,7 @@
 
 
 ![image](https://github.com/danielsantosds7/SpaceTune/assets/50743449/2cf871de-1992-45ca-bead-27615859fcb8)
+
+<h3>Pequena gameplay</h3>
+
+![gameplay](https://github.com/danielsantosds7/SpaceTune/assets/50743449/86824e28-9767-49bd-a103-12f335fd28fe)
